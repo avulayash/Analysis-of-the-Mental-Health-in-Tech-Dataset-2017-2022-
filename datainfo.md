@@ -1,4 +1,4 @@
-# 🧠 Mental Health in Tech Professionals (OSMI Survey 2017–2021)
+#  Mental Health in Tech Professionals (OSMI Survey 2017–2021)
 
 **Dataset Title**:  
 Survey dataset on mental health in tech professionals from Open Sourcing Mental Health (OSMI) surveys (2017–2021)  
@@ -8,7 +8,7 @@ Survey dataset on mental health in tech professionals from Open Sourcing Mental 
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 This dataset contains responses collected from 2017 to 2021 through surveys conducted by **Open Sourcing Mental Health (OSMI)**, focusing on mental health among tech professionals globally.
 
@@ -18,7 +18,7 @@ This dataset contains responses collected from 2017 to 2021 through surveys cond
 
 ---
 
-## 📁 Column Descriptions
+## Column Descriptions
 
 | Column Name              | Description                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|
@@ -36,31 +36,31 @@ This dataset contains responses collected from 2017 to 2021 through surveys cond
 
 ---
 
-## 📈 Statistical Highlights
+##  Statistical Highlights
 
-- 🧑‍💻 **Tech Company Workers**:  
+-  **Tech Company Workers**:  
   899 of 1242 respondents (≈72%) work in tech companies.
 
-- 🧠 **Most Common Mental Health Status**:  
+-  **Most Common Mental Health Status**:  
   `Yes` — 553 respondents reported having a mental health condition.
 
-- 🌍 **Most Represented Country**:  
+-  **Most Represented Country**:  
   `United States` — 947 respondents.
 
-- 📊 **Average Age**:  
+-  **Average Age**:  
   35 years old (range: 19 to 66).
 
-- 🚻 **Gender Distribution**:  
+-  **Gender Distribution**:  
   - Male: 813  
   - Female: *Significantly fewer*  
   - Other: *Included but minimal*
 
-- 📣 **Mental Health Sharing Score**:  
+-  **Mental Health Sharing Score**:  
   Average ~6.6 (on a 0–10 scale).
 
 ---
 
-## 📥 Citation
+##  Citation
 
 ```bibtex
 @dataset{memon_2023,
