@@ -1,22 +1,22 @@
-## 🔍 Feature Importance Analysis (Random Forest)
+##  Feature Importance Analysis (Random Forest)
 
-### 📊 Top Features:
+###  Top Features:
 - **age**: Most important feature by a significant margin.
 - **mh_share**: Indicates a person’s willingness to share mental health information.
 - **country**: Suggests regional or cultural differences matter.
 - **mh_coworker_discussion** and **workplace_resources**: Reflect a supportive environment's impact.
 
-### 📉 Less Important Features:
+### Less Important Features:
 - **medical_coverage**, **tech_company**, and **mh_employer_discussion**: Least important among included features.
 
-### ✅ Conclusion:
+### Conclusion:
 The model highlights **individual factors** (like age and openness about mental health) and **workplace discussion culture** as more influential than benefits or employer policies.
 
 ---
 
-## 📊 Model Performance (Classification Report)
+##  Model Performance (Classification Report)
 
-### 🔢 Key Metrics:
+###  Key Metrics:
 - **Accuracy**: 67.87% — Decent but not outstanding.
 - **Precision / Recall / F1 (Class 1)**: ~77% — Strong performance on this class.
 
@@ -24,7 +24,7 @@ The model highlights **individual factors** (like age and openness about mental 
 - **Class 0**: Poor performance (~47% F1).
 - **Class 1**: Significantly better, suggesting a **bias toward the more frequent class**.
 
-### ✅ Conclusion:
+###  Conclusion:
 - The model handles **Class 1** well but struggles with **Class 0**.
 - Indicates **class imbalance**.
 - Consider techniques like:
@@ -34,7 +34,7 @@ The model highlights **individual factors** (like age and openness about mental 
 
 ---
 
-## 📈 AUC Score
+##  AUC Score
 
 - **AUC = 0.689**
   - Moderate discriminatory power.
@@ -42,7 +42,7 @@ The model highlights **individual factors** (like age and openness about mental 
 
 ---
 
-## 🧠 Final Takeaways
+##  Final Takeaways
 
 | Aspect             | Insight                                                                 |
 |--------------------|-------------------------------------------------------------------------|
